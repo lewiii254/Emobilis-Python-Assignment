@@ -24,9 +24,8 @@ Below is the list of files included in this folder and a one-line purpose for ea
 - `Weekend_detector.py` — Determines whether a given day/date is a weekend.
 - `README.md` — (this file) Human-friendly documentation for the assignment.
 
-Note: File names are preserved as in the repository. The short descriptions above are inferred from filenames and common week-2 exercises; if you'd like, I can open individual files and add exact usage examples per script.
 
-## 🧭 Mermaid diagrams
+## Stuctures
 
 Project file tree (simple view):
 
@@ -129,9 +128,7 @@ python Grade_classifier.py; python Even_or_odd_analylzer.py
 - Add a single runner script that showcases each exercise in sequence.
 
 ## 📝 Credits & contact
-
-This repository contains student/learning exercises for Emobilis Week 2. If you'd like me to make the README more compact, or to expand it with exact per-file examples (by reading each file), tell me which option you prefer and I'll update the README accordingly.
+Marklewis Mutugi - [Portfolio](https://marklewis-verse-folio.vercel.app/)
 
 ---
 
-Completion: README updated with a clear project overview, Mermaid diagrams, per-file descriptions, and PowerShell run instructions. 🛠️
